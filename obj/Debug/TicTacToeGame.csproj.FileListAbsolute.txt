@@ -1,0 +1,16 @@
+C:\Users\nik78\OneDrive\Рабочий стол\HomeTask4_AQA_Никита_Головин\Tasks\TicTacToeGame\bin\Debug\TicTacToeGame.exe.config
+C:\Users\nik78\OneDrive\Рабочий стол\HomeTask4_AQA_Никита_Головин\Tasks\TicTacToeGame\bin\Debug\TicTacToeGame.exe
+C:\Users\nik78\OneDrive\Рабочий стол\HomeTask4_AQA_Никита_Головин\Tasks\TicTacToeGame\bin\Debug\TicTacToeGame.pdb
+C:\Users\nik78\OneDrive\Рабочий стол\HomeTask4_AQA_Никита_Головин\Tasks\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.AssemblyReference.cache
+C:\Users\nik78\OneDrive\Рабочий стол\HomeTask4_AQA_Никита_Головин\Tasks\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\nik78\OneDrive\Рабочий стол\HomeTask4_AQA_Никита_Головин\Tasks\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.CoreCompileInputs.cache
+C:\Users\nik78\OneDrive\Рабочий стол\HomeTask4_AQA_Никита_Головин\Tasks\TicTacToeGame\obj\Debug\TicTacToeGame.exe
+C:\Users\nik78\OneDrive\Рабочий стол\HomeTask4_AQA_Никита_Головин\Tasks\TicTacToeGame\obj\Debug\TicTacToeGame.pdb
+C:\Users\nik78\OneDrive\Рабочий стол\TicTacToeGame\bin\Debug\TicTacToeGame.exe.config
+C:\Users\nik78\OneDrive\Рабочий стол\TicTacToeGame\bin\Debug\TicTacToeGame.exe
+C:\Users\nik78\OneDrive\Рабочий стол\TicTacToeGame\bin\Debug\TicTacToeGame.pdb
+C:\Users\nik78\OneDrive\Рабочий стол\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.AssemblyReference.cache
+C:\Users\nik78\OneDrive\Рабочий стол\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\nik78\OneDrive\Рабочий стол\TicTacToeGame\obj\Debug\TicTacToeGame.csproj.CoreCompileInputs.cache
+C:\Users\nik78\OneDrive\Рабочий стол\TicTacToeGame\obj\Debug\TicTacToeGame.exe
+C:\Users\nik78\OneDrive\Рабочий стол\TicTacToeGame\obj\Debug\TicTacToeGame.pdb
