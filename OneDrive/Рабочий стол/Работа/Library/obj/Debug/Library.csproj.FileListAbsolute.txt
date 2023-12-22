@@ -1,0 +1,8 @@
+C:\Users\nik78\OneDrive\Рабочий стол\HomeTask4_AQA_Никита_Головин\Tasks\Library\bin\Debug\Library.exe.config
+C:\Users\nik78\OneDrive\Рабочий стол\HomeTask4_AQA_Никита_Головин\Tasks\Library\bin\Debug\Library.exe
+C:\Users\nik78\OneDrive\Рабочий стол\HomeTask4_AQA_Никита_Головин\Tasks\Library\bin\Debug\Library.pdb
+C:\Users\nik78\OneDrive\Рабочий стол\HomeTask4_AQA_Никита_Головин\Tasks\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\nik78\OneDrive\Рабочий стол\HomeTask4_AQA_Никита_Головин\Tasks\Library\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\nik78\OneDrive\Рабочий стол\HomeTask4_AQA_Никита_Головин\Tasks\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\nik78\OneDrive\Рабочий стол\HomeTask4_AQA_Никита_Головин\Tasks\Library\obj\Debug\Library.exe
+C:\Users\nik78\OneDrive\Рабочий стол\HomeTask4_AQA_Никита_Головин\Tasks\Library\obj\Debug\Library.pdb
