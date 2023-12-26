@@ -1,0 +1,231 @@
+Game Results
+Start Time: 01.01.0001 00:00:00
+End Time: 25.12.2023 23:24:04
+Player 1: Nik - Score: 0
+Player 2: T1000 - Score: 0
+======================================
+Game Results
+Start Time: 25.12.2023 23:24:14
+End Time: 25.12.2023 23:24:42
+Player 1: Nik - Score: 0
+Player 2: Bob - Score: 0
+======================================
+Game Results
+Start Time: 01.01.0001 00:00:00
+End Time: 25.12.2023 23:26:19
+Player 1: Nik - Score: 0
+Player 2: T1000 - Score: 0
+======================================
+Game Results
+Start Time: 25.12.2023 23:26:33
+End Time: 25.12.2023 23:26:52
+Player 1: Nik - Score: 0
+Player 2: Bob - Score: 0
+======================================
+Game Results
+Start Time: 01.01.0001 00:00:00
+End Time: 25.12.2023 23:27:51
+Player 1: Nik - Score: 0
+Player 2: T1000 - Score: 0
+======================================
+Game Results
+Start Time: 25.12.2023 23:28:01
+End Time: 25.12.2023 23:28:32
+Player 1: Nik - Score: 1
+Player 2: Bob - Score: 0
+======================================
+Game Results
+Start Time: 01.01.0001 00:00:00
+End Time: 25.12.2023 23:39:14
+Player 1: Nik - Score: 0
+Player 2: T1000 - Score: 0
+======================================
+Game Results
+Start Time: 25.12.2023 23:39:29
+End Time: 25.12.2023 23:39:52
+Player 1: Nik - Score: 0
+Player 2: T1000 - Score: 0
+======================================
+Game Results
+Start Time: 01.01.0001 00:00:00
+End Time: 25.12.2023 23:42:11
+Player 1: Nik - Score: 0
+Player 2: T1000 - Score: 0
+======================================
+Game Results
+Start Time: 01.01.0001 00:00:00
+End Time: 25.12.2023 23:43:15
+Player 1: Nik - Score: 0
+Player 2: T1000 - Score: 0
+======================================
+Game Results
+Start Time: 25.12.2023 23:43:20
+End Time: 25.12.2023 23:43:43
+Player 1: Nik - Score: 1
+Player 2: Bob - Score: 0
+======================================
+Game Results
+Start Time: 01.01.0001 00:00:00
+End Time: 25.12.2023 23:49:04
+Player 1: Nik - Score: 0
+Player 2: T1000 - Score: 0
+======================================
+Game Results
+Start Time: 25.12.2023 23:49:11
+End Time: 25.12.2023 23:49:24
+Player 1: 1 - Score: 3
+Player 2: 2 - Score: 0
+======================================
+Game Results
+Start Time: 01.01.0001 00:00:00
+End Time: 26.12.2023 00:06:05
+Player 1: 1 - Score: 0
+Player 2: T1000 - Score: 0
+======================================
+Game Results
+Start Time: 01.01.0001 00:00:00
+End Time: 26.12.2023 00:07:07
+Player 1: 1 - Score: 0
+Player 2: 2 - Score: 0
+======================================
+Game Results
+Start Time: 26.12.2023 00:07:50
+End Time: 26.12.2023 00:08:01
+Player 1: 1 - Score: 3
+Player 2: T1000 - Score: 0
+======================================
+Game Results
+Start Time: 01.01.0001 00:00:00
+End Time: 26.12.2023 00:21:44
+Player 1: Nik - Score: 0
+Player 2: Computer - Score: 0
+======================================
+Game Results
+Start Time: 01.01.0001 00:00:00
+End Time: 26.12.2023 00:34:11
+Player 1: Nik - Score: 0
+Player 2: T1000 - Score: 0
+======================================
+Game Results
+Start Time: 26.12.2023 00:34:25
+End Time: 26.12.2023 00:34:42
+Player 1: Nik - Score: 3
+Player 2: Bob - Score: 0
+======================================
+Game Results
+Start Time: 01.01.0001 00:00:00
+End Time: 26.12.2023 00:40:29
+Player 1: Nik - Score: 0
+Player 2: T1000 - Score: 0
+======================================
+Game Results
+Start Time: 26.12.2023 00:40:45
+End Time: 26.12.2023 00:41:10
+Player 1: Nik - Score: 3
+Player 2: Bob - Score: 0
+======================================
+Game Results
+Start Time: 01.01.0001 00:00:00
+End Time: 26.12.2023 00:48:33
+Player 1: Nik - Score: 0
+Player 2: T1000 - Score: 0
+======================================
+Game Results
+Start Time: 26.12.2023 00:48:41
+End Time: 26.12.2023 00:49:07
+Player 1: Nik - Score: 3
+Player 2: Bob - Score: 0
+======================================
+Game Results
+Start Time: 01.01.0001 00:00:00
+End Time: 26.12.2023 01:20:18
+Player 1: Nik - Score: 0
+Player 2: Computer - Score: 0
+======================================
+Game Results
+Start Time: 26.12.2023 01:20:28
+End Time: 26.12.2023 01:20:46
+Player 1: Nik - Score: 3
+Player 2: Bob - Score: 0
+======================================
+Результаты игры
+Время начала: 01.01.0001 00:00:00
+Время окончания: 26.12.2023 01:24:26
+Игрок 1: Player 1 - Счет: 0
+Игрок 2: Компьютер - Счет: 0
+======================================
+Результаты игры
+Время начала: 26.12.2023 01:24:37
+Время окончания: 26.12.2023 01:25:08
+Игрок 1: Player 1 - Счет: 3
+Игрок 2: Nik - Счет: 0
+======================================
+Результаты игры
+Время начала: 01.01.0001 00:00:00
+Время окончания: 26.12.2023 01:28:35
+Игрок 1: Player 1 - Счет: 0
+Игрок 2: Компьютер - Счет: 0
+======================================
+Результаты игры
+Время начала: 26.12.2023 01:28:47
+Время окончания: 26.12.2023 01:29:00
+Игрок 1: Player 1 - Счет: 3
+Игрок 2: Nik - Счет: 0
+======================================
+26.12.2023 01:31:28 - Player 1 vs Компьютер - Player 1
+26.12.2023 01:32:04 - Player 1 vs Nik - Nik
+26.12.2023 01:32:56 - Player 1 vs Nik - Nik
+Game Results
+Start Time: 01.01.0001 00:00:00
+End Time: 26.12.2023 01:42:33
+Player 1: Nik - Score: 0
+Player 2: T1000 - Score: 0
+======================================
+Game Results
+Start Time: 26.12.2023 01:42:40
+End Time: 26.12.2023 01:42:55
+Player 1: Nik - Score: 3
+Player 2: Bob - Score: 0
+======================================
+Game Results
+Start Time: 01.01.0001 00:00:00
+End Time: 26.12.2023 01:51:19
+Player 1: Nik - Score: 0
+Player 2: T1000 - Score: 0
+======================================
+Game Results
+Start Time: 26.12.2023 01:51:22
+End Time: 26.12.2023 01:51:43
+Player 1: Nik - Score: 3
+Player 2: Bob - Score: 0
+======================================
+Game Results
+Start Time: 01.01.0001 00:00:00
+End Time: 26.12.2023 19:31:55
+Player 1: Bob - Score: 0
+Player 2: T1000 - Score: 0
+======================================
+Game Results
+Start Time: 26.12.2023 19:32:03
+End Time: 26.12.2023 19:32:32
+Player 1: Nik - Score: 3
+Player 2: Dod - Score: 0
+======================================
+Game Results
+Start Time: 26.12.2023 19:32:43
+End Time: 26.12.2023 19:33:11
+Player 1: 2 - Score: 3
+Player 2: T1000 - Score: 3
+======================================
+Game Results
+Start Time: 01.01.0001 00:00:00
+End Time: 26.12.2023 20:19:20
+Player 1: Nik - Score: 0
+Player 2: T1000 - Score: 0
+======================================
+Game Results
+Start Time: 26.12.2023 20:19:24
+End Time: 26.12.2023 20:19:45
+Player 1: Nik - Score: 3
+Player 2: Bob - Score: 0
+======================================
